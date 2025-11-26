@@ -1,0 +1,14 @@
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.AssemblyInfoInputs.cache
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.AssemblyInfo.cs
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.csproj.CoreCompileInputs.cache
+/Users/thaihuynhquoc/C# Console Basic/run/bin/Debug/net9.0/run
+/Users/thaihuynhquoc/C# Console Basic/run/bin/Debug/net9.0/run.deps.json
+/Users/thaihuynhquoc/C# Console Basic/run/bin/Debug/net9.0/run.runtimeconfig.json
+/Users/thaihuynhquoc/C# Console Basic/run/bin/Debug/net9.0/run.dll
+/Users/thaihuynhquoc/C# Console Basic/run/bin/Debug/net9.0/run.pdb
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.dll
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/refint/run.dll
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.pdb
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/run.genruntimeconfig.cache
+/Users/thaihuynhquoc/C# Console Basic/run/obj/Debug/net9.0/ref/run.dll
